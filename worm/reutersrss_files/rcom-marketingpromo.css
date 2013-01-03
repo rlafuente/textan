@@ -1,0 +1,86 @@
+div.marketingPromo {
+ height:90px;
+ width:225px;
+ text-align:left;
+ overflow:hidden;
+ background:url("/resources/images/bg_marketingPromo.gif") top left repeat-x;
+}
+div.marketingPromo div.promoPhoto {
+	float:left;
+	width:95px;
+	height:72px;
+	padding:0;
+	margin: 5px 0 0 1px;
+}
+div.marketingPromo div.promoTeaser {
+	float:left;
+	width:120px;
+	height:76px;
+	overflow:hidden;
+	padding:0;
+	margin: 4px 0 0 8px;
+	font-size: 11px;
+}
+div.marketingPromo div.promoTeaserFull {
+	float:left;
+	width:224px;
+	height:76px;
+	overflow:hidden;
+	padding:0;
+	margin: 4px 0 0 1px;
+	font-size: 11px;
+}
+div.promoTeaser h5, div.promoTeaserFull h5 {
+	color:#003399;
+	font-size: 14px;
+	margin-bottom:5px;
+}
+div.promoTeaser p.teaser, div.promoTeaserFull p.teaser {
+	line-height:13px;
+	margin:0 0 4px 0;
+	padding:0;
+}
+div.promoTeaser span.teaserLink, div.promoTeaserFull span.teaserLink {
+  background-image: url("/resources/images/bulletM.gif");
+  background-repeat: no-repeat;
+  background-position: 100% 10%;
+  padding-right: 10px;
+  font-weight:bold;
+}
+.ad155 {
+	width:153px;
+	border: 1px solid #eee;
+	background:url("/resources/images/bgMarketingCMS2.gif") center bottom no-repeat;
+	overflow:hidden;
+}
+.ad155 .adWrap {
+	padding: 9px 8px;
+	font-size:11px;
+}
+.ad155 p, .ad155 h5, .adWrap .adLinks, .ad155 .headlineMed {
+	padding:5px 0 0 0;
+	margin:0;
+}
+.ad155 h5 {
+	padding:0;
+	font-size:15px;
+	color: #474747;
+}
+.adWrap .adLinks {
+	padding-left:2px;
+}
+.ad155 .headlineMed {
+	padding: 0 0 0 7px;
+	margin-top:5px;
+	font-size: 11px;
+	width:130px;
+}
+.ad155 .inlineLinks {
+	text-transform: none;
+}
+.module.LRmarketing {
+	margin:2px 0;
+}
+.ad155 a.videoLink span  {
+	font-weight:normal;
+}

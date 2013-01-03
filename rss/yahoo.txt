@@ -1,0 +1,8 @@
+http://rss.news.yahoo.com/rss/topstories
+http://rss.news.yahoo.com/rss/us
+http://rss.news.yahoo.com/rss/terrorism
+http://rss.news.yahoo.com/rss/mideast
+http://rss.news.yahoo.com/rss/politics
+http://rss.news.yahoo.com/rss/oddlyenough
+http://rss.news.yahoo.com/rss/sports
+http://rss.news.yahoo.com/rss/tech

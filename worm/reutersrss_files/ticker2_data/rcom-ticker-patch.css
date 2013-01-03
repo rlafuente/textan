@@ -1,0 +1,58 @@
+body {background: url(/resources/images/bgBluGrad.gif) repeat-y -10px;}
+
+.hidden {
+	display: none;
+}
+
+.tickLink {
+	float: left;
+	margin: 0px 3px 0px 0px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.tickLink a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.tickLink a:hover {
+	text-decoration: underline;
+}
+.tickContent a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.tickContent a:hover {
+	text-decoration: underline;
+}
+.tickContent {
+	float: left;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0px 2px 0px 4px;
+	position: relative;
+	height: 15px;
+}
+
+.tickButton {
+	float: left;
+	cursor: pointer;
+	cursor: hand;
+	margin: 1px;
+	position: relative;
+}
+
+#cursor {
+	background:none;
+	float:left;
+	top:1px;
+	height: 10px;
+	width: 8px;
+	position: relative;
+	top: 0px;
+	padding: 1px 0px 4px 0px;
+	z-index: 100;
+}

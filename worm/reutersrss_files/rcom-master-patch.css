@@ -1,0 +1,66 @@
+/* ***************************** */
+/* Header */
+
+.header {
+	background: #0B1A33 url(/resources/images/bgBluGrad.gif) repeat-y right ;
+	height: 72px;
+	border-bottom: 1px solid #4d4d4d;
+}
+.headerWrap {
+	height: 72px;
+	background: url(/resources/images/bgDotsOnBlu.gif) no-repeat right bottom;
+}
+.logo {
+	margin: -3px 0px 0px 0px;
+}
+/* ***************************** */
+/* Searchbar */
+
+.searchbar {
+	height: 25px;
+	margin-top:-25px;
+	border-top:none;
+	border-bottom: 1px solid #c7c7c7;
+	background:none;
+	-moz-box-sizing: content-box;
+}
+.searchbar a {
+	color: #FFF;
+}
+.searchbarDots,
+.searchbarWrap {
+	height: 25px;
+	border-bottom:none;
+}
+
+div.toolbarTicker {
+	margin-left: 10px;
+	margin-top: 7px;
+}
+
+div.toolbarSearch{
+	padding: 2px 10px 0 0;
+	margin-top: 1px;
+	background: url(/resources/images/bgSearchBar.gif) no-repeat right -2px;
+	margin-right:0;
+}
+.toolbarNews {
+ padding-left:2px;
+}
+div.toolbarDivider {
+	margin: 1px 0px 0px 9px;
+	background: url("/resources/images/barDivider.gif") repeat-y;
+}
+div.toolbarNews input[type="text"] {
+	font-size:x-small;
+	color: #666;
+}
+div.toolbarNews input:focus[type="text"] {
+	color:#000;
+}
+div.toolbarUtilities img {
+	margin-bottom: 1px;
+}
+.pagesponsor {
+	top: 0px;
+}

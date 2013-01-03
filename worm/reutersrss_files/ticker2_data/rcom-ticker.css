@@ -1,0 +1,42 @@
+body {
+	background: url("/resources/images/refreshToolbar.gif") center repeat-x;
+}
+
+.hidden {
+	display: none;
+}
+
+.tickLink {
+	float: left;
+	margin: 0px 3px 0px 0px;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.tickContent {
+	float: left;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0px 2px 0px 4px;
+	position: relative;
+}
+
+.tickButton {
+	float: left;
+	cursor: pointer;
+	cursor: hand;
+	margin: 1px;
+	position: relative;
+}
+
+#cursor {
+	background: url("/resources/images/refreshToolbar.gif") center repeat-x;
+	height: 8px;
+	width: 600px;
+	position: absolute;
+	top: 0px;
+	padding: 1px 0px 4px 0px;
+	z-index: 100;
+}
